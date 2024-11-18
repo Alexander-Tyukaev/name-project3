@@ -1,0 +1,14 @@
+@font-face {
+  font-family: 'Manrope';
+  src: url('../font/Manrope-VariableFont_wght.ttf') format('truetype');
+}
+.main-container{
+  width: 100%;
+  height: auto;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  gap: 40px;
+  background: rgb(204, 195, 195);
+  flex-wrap: wrap
+}
